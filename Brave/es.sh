@@ -47,7 +47,7 @@ echo " - Más ligero que Chrome, consume menos memoria"
 echo " - Menos procesos en segundo plano, interfaz más limpia"
 echo
 echo "⚠️ Inconvenientes:"
-echo " - NECESITAS DAR MINIMO UN 3GB”
+echo " - NECESITAS DAR MINIMO UN 3GB"
 echo " - Algunas webs/extensiones pueden ir lentas"
 echo " - Configuración de privacidad estricta, hay que ajustar permisos manualmente"
 echo " - En CrazyGames puede ir lento, o otros mas."
