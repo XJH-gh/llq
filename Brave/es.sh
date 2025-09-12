@@ -59,6 +59,7 @@ echo " - Cómo usar: ≡ → Nueva ventana privada con Tor (Shift+Alt+N)"
 echo " - Desventaja: lento y a veces inestable"
 echo " - Para máxima seguridad, Tor Browser oficial es mejor"
 echo " - Documentación(Sobre El Tor): https://support.brave.app/hc/es/articles/7816553516045--C%C3%B3mo-utilizo-los-puentes-Tor-en-Brave"
+echo " Si tienes mas pregunta envia un mail al: hjzgcn@gmail.com o enviar un comentario a https://xjha.blogspot.com/2025/09/no-tenemos-leaf-browser-y-ahora-que.html "
 echo
 read -p "¿Quieres instalar Brave Browser? (y/N): " confirm
 if [[ ! "$confirm" =~ ^[Yy]$ ]]; then
@@ -81,7 +82,7 @@ fi
 echo
 echo "Elige cómo configurar el idioma:"
 echo " 1) Cambiar el idioma del sistema a Español (incluyendo Brave)"
-echo " 2) Solo poner Brave en Español (recomendado)"
+echo " 2) Solo poner Brave en Español"
 read -p "Escribe 1 o 2 (por defecto 2): " lang_choice
 lang_choice=${lang_choice:-2}
 
