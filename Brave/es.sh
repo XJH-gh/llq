@@ -50,7 +50,7 @@ echo "⚠️ Inconvenientes:"
 echo " - NECESITAS DAR MINIMO UN 3GB”
 echo " - Algunas webs/extensiones pueden ir lentas"
 echo " - Configuración de privacidad estricta, hay que ajustar permisos manualmente"
-echo " - En CrazyGames puede ir lento, o otros mas.(PUEDE SER ES PORQUE SOLO HAS DADO 3GB)"
+echo " - En CrazyGames puede ir lento, o otros mas."
 echo
 echo "🔒 Función especial: Tor incorporado"
 echo " - Permite acceder a webs bloqueadas"
