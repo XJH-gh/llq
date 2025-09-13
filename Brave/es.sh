@@ -59,7 +59,7 @@ echo " - Cómo usar: ≡ → Nueva ventana privada con Tor (Shift+Alt+N)"
 echo " - Desventaja: lento y a veces inestable"
 echo " - Para máxima seguridad, Tor Browser oficial es mejor"
 echo " - Documentación(Sobre El Tor): https://support.brave.app/hc/es/articles/7816553516045--C%C3%B3mo-utilizo-los-puentes-Tor-en-Brave"
-echo " Si tienes mas pregunta envia un mail al: hjzgcn@gmail.com o enviar un comentario a https://xjha.blogspot.com/2025/09/no-tenemos-leaf-browser-y-ahora-que.html "
+echo " Si tienes mas pregunta envia un mail al: hjzgcn@gmail.com o enviar un comentario a https://elcacauete.blogspot.com/2025/09/instalar%20linux%20en%20chromebook%20y%20instalar%20otro%20nevegador.html "
 echo
 read -p "¿Quieres instalar Brave Browser? (y/N): " confirm
 if [[ ! "$confirm" =~ ^[Yy]$ ]]; then
